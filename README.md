@@ -71,13 +71,6 @@ The program will print out details about the IP's geolocation.
 
 ---
 
-## Notes
-
-- The script uses a free API with a rate limit.
-- Accuracy of IP geolocation may vary based on the IP and region.
-
----
-
 ## Example Output
 
 ```
